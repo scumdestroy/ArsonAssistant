@@ -153,7 +153,7 @@ EOL
 
     echo "Payload saved as 'CSRF-plugin-locked-napalm-missiles.html'"
 }
- Function to perform (Low-Priv Authenticated) Stored XSS in PyroCMS 2.1.1
+#  Function to perform (Low-Priv Authenticated) Stored XSS in PyroCMS 2.1.1
 stored_xss_low_priv() {
     echo "Enter email:"
     read -r email
